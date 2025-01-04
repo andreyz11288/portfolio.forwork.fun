@@ -23,10 +23,10 @@
 define('DB_NAME', 'andreyz11288_wordpress_9');
 
 /** MySQL database username */
-define('DB_USER',       'root');
+define('DB_USER',       'wordpress_04');
 
 /** MySQL database password */
-define('DB_PASSWORD',       '');
+define('DB_PASSWORD',       'r6O!R0t1Uz');
 
 /** MySQL hostname */
 define('DB_HOST', 'localhost:3306');
